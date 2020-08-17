@@ -26,8 +26,12 @@ section p {
     margin-top: 10px;
     text-align: justify;
 }
-.navbar-brand a:hover, .navbar-brand a:focus {
-    text-decoration: none;}
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;}.
+    .comname a:hover{ text-decoration: none;
+
+    }
+
     #nav-list a {
         color: black;
         text-align: center;
